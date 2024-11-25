@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["uniapp","loader","页面插入"],
   "repository": {
     "type": "git",
     "url": "https://github.com/crewray/insert-page-content-webpack-loader.git"
