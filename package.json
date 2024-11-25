@@ -1,0 +1,16 @@
+{
+  "name": "insert-page-content-webpack-loader",
+  "version": "1.0.0",
+  "description": "uniapp通用页面插入内容webpack loader",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "crewray",
+  "license": "MIT"
+}
