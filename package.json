@@ -1,6 +1,6 @@
 {
   "name": "insert-page-content-webpack-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "uniapp通用页面插入内容webpack loader",
   "main": "lib/index.js",
   "scripts": {
