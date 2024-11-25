@@ -9,7 +9,7 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/crewray/insert-page-content-webpack-loader.git"
   },
   "author": "crewray",
   "license": "MIT"
