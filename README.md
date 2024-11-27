@@ -26,7 +26,7 @@ configureWebpack: (config) => {
             loader: "insert-page-content-webpack-loader",
             options: {
               // 正则表达式 (换成你需要的替换内容的正则表达式)
-              regexp: "<view([sS]*?)>([sS]*?)</view>",
+              regexp: /<view([\s\S]*?)>([\s\S]*?)<\/view>/,
               // replace回调 (换成你需要的替换内容)
               callback: (match, p1, p2) => {
                 return `<view${p1}><mpDevBubble/>${p2}</view>`;
